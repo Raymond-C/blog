@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d867b7-fe2f-4b8d-9ebb-90794c08a5c0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.sql" afterPath="$PROJECT_DIR$/blog.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-config.php" afterPath="$PROJECT_DIR$/wordpress/wp-config.php" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,12 +24,12 @@
     <favorites_list name="blog" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="blog.sql" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog.sql">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334">
-              <caret line="6" column="152948" selection-start-line="6" selection-start-column="152942" selection-end-line="6" selection-end-column="152948" />
+            <state vertical-scroll-proportion="0.6052632">
+              <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -43,6 +44,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/blog.sql" />
+        <option value="$PROJECT_DIR$/wordpress/wp-config.php" />
       </list>
     </option>
   </component>
@@ -86,8 +88,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -145,7 +147,7 @@
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25297382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -180,18 +182,55 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-signup.php">
+    <entry file="file://$PROJECT_DIR$/blog.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.280993">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="152948" selection-start-line="6" selection-start-column="152944" selection-end-line="6" selection-end-column="152950" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.sql.bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-config.php">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-signup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.958333">
-          <caret line="55" column="22" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="22" />
+        <state vertical-scroll-proportion="-22.280993">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-cron.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.044905007">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="95" column="32" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.sql.bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023734177">
+          <caret line="6" column="152948" selection-start-line="6" selection-start-column="152941" selection-end-line="6" selection-end-column="152947" />
           <folding />
         </state>
       </provider>
@@ -204,30 +243,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-cron.php">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-config-sample.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.044905007">
+        <state vertical-scroll-proportion="-0.29605263">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1484308900817" expanded="true" signature="1170:1240" placeholder="SELECT optio... ${$wpdb-&gt;options}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-settings.php">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="95" column="32" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="32" />
-          <folding>
-            <element signature="e#6#221#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="6" column="152948" selection-start-line="6" selection-start-column="152942" selection-end-line="6" selection-end-column="152948" />
+        <state vertical-scroll-proportion="0.6052632">
+          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
           <folding />
         </state>
       </provider>
